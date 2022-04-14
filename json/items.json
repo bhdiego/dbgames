@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Hollow Knight",
+    "genre": "Metroidvania",
+    "year": "2017",
+    "price": 179.99,
+    "img": "hollow_knight.jpg"
+  },
+  {
+    "name": "Dead Cells",
+    "genre": "Metroidvania",
+    "year": "2018",
+    "price": 279.99,
+    "img": "dead_cells.jpg"
+  },
+  {
+    "name": "Ori and the Will of the Wisps",
+    "genre": "Metroidvania",
+    "year": "2020",
+    "price": 1999.00,
+    "img": "oatwotw.jpg"
+  },
+  {
+    "name": "Left 4 Dead 2",
+    "genre": "FPS",
+    "year": "2009",
+    "price": 129.99,
+    "img": "l4d2.jpg"
+  },
+  {
+    "name": "TEKKEN 7",
+    "genre": "Lucha",
+    "year": "2022",
+    "price": 1999.99,
+    "img": "tekken_7.jpg"
+  },
+  {
+    "name": "Persona 4 Arena Ultimax",
+    "genre": "Lucha",
+    "year": "2022",
+    "price": 1769.00,
+    "img": "p4_au.jpg"
+  },
+  {
+    "name": "THE KING OF FIGHTERS XV",
+    "genre": "Lucha",
+    "year": "2022",
+    "price": 2930.00,
+    "img": "kof_xv.jpg"
+  },
+  {
+    "name": "Cuphead",
+    "genre": "Plataforma",
+    "year": "2017",
+    "price": 179.99,
+    "img": "cuphead.jpg"
+  },
+  {
+    "name": "Yakuza 0",
+    "genre": "Acción, Aventura, Rol",
+    "year": "2015",
+    "price": 279.99,
+    "img": "yakuza_0.jpg"
+  },
+  {
+    "name": "Disco Elysium - The Final Cut",
+    "genre": "Rol",
+    "year": "2019",
+    "price": 153.99,
+    "img": "disco_elysium_tfc.jpg"
+  },
+  {
+    "name": "Hades",
+    "genre": "Acción, Indie, Rol",
+    "year": "2020",
+    "price": 279.99,
+    "img": "hades.jpg"
+  },
+  {
+    "name": "Celeste",
+    "genre": "Acción, Aventura, Indie",
+    "year": "2018",
+    "price": 224.99,
+    "img": "celeste.jpg"
+  }
+]
